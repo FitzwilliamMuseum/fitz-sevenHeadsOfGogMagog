@@ -35,7 +35,7 @@ arrow on the audio file below. The mouth, if you look closely enough, and if you
 then utter its oraculations, which will make their way through your headphones into your head.
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="../uploads/2017/07/One.mp3" />
+    <source type="audio/mpeg" src="{{ /uploads/2017/07/One.mp3" />
      [../uploads/2017/07/One.mp3](../uploads/2017/07/One.mp3)
 </audio>
 

@@ -36,7 +36,7 @@ The entry for this bracelet in the online catalogue of the Museum states: ‘The
 (Bib): Lethbridge, TC, “Burial of an Iron Age Warrior at Snailwell”…’ The presence of the horse head bracelet in the 
 grave was possibly symbolic of the horse as a guide on the journey to the Otherworld.
 
-[![](../uploads/2018/03/IMG_0556-1024x765.jpg)](/uploads/2018/03/IMG_0556.jpg)
+[![](/uploads/2018/03/IMG_0556-1024x765.jpg)](/uploads/2018/03/IMG_0556.jpg)
 
 Glorious Robin, who has incisively commented on some of my previous posts, and who lives in a blackberry bush near the 
 cemetery lodge, is an authority on the author of that entry, TC Lethbridge, and it is Robin who I have to thank for most 

@@ -1892,11 +1892,11 @@ body {
 
 .jumbotron {
     background-image: url("../uploads/2017/02/cropped-Seven-Heads-Starr-Carr-square-1.jpg");
-    background-size: 100% 100%;
+    background-size: 100%;
     background-attachment: bottom;
     color: #b0bec5;
     margin-bottom: 0;
-    height: 550px;
+    height: 900px;
 
 }
 

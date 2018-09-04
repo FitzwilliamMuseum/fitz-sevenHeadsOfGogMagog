@@ -35,8 +35,8 @@ arrow on the audio file below. The mouth, if you look closely enough, and if you
 then utter its oraculations, which will make their way through your headphones into your head.
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="/uploads/2017/07/One.mp3" />
-     [/uploads/2017/07/One.mp3](/uploads/2017/07/One.mp3)
+    <source type="audio/mpeg" src="{{ '/' | absolute_url }}/uploads/2017/07/One.mp3" />
+     [{{ '/' | absolute_url }}/uploads/2017/07/One.mp3]({{ '/' | absolute_url }}/uploads/2017/07/One.mp3)
 </audio>
 
 You have now heard the words of Oracle the First, and in the rest of this post I will attempt to interpret the oracular 
@@ -45,7 +45,7 @@ utterance as best I can.
 The main subject of the oracle’s river-borne floating voice seems to be the legendary singer and musician Orpheus, who
  is indeed, according to the museum label, the head on the cup.
 
-[![](/uploads/2018/03/IMG_0551-1024x765.jpg)](/uploads/2018/03/IMG_0551.jpg)
+[![]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0551-1024x765.jpg)]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0551.jpg)
 
 ‘The birds, lamenting, cried for you, Orpheus’!
 

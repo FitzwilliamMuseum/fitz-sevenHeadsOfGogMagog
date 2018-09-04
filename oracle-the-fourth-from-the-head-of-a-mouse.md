@@ -28,8 +28,8 @@ press the Play arrow on the audio file below. The mouse skull snout, if you look
 my playful fancy, will utter its oraculations, which will make their way through your headphones into your head.
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="/uploads/2017/07/Four.mp3" />
-      [/uploads/2017/07/Four.mp3](/uploads/2017/07/Four.mp3)
+    <source type="audio/mpeg" src="{{ '/' | absolute_url }}/uploads/2017/07/Four.mp3" />
+      [{{ '/' | absolute_url }}/uploads/2017/07/Four.mp3]({{ '/' | absolute_url }}/uploads/2017/07/Four.mp3)
 </audio>
 
 You have now heard the words of Oracle the Fourth, and in the rest of this post I will attempt to interpret the oracular 
@@ -38,7 +38,7 @@ utterance as best I can.
 Mouse was the nickname of Kenneth Grahame’s son, Alastair, whose bedtime stories became ‘Wind in the Willows’. I also 
 have a soul-help and colleague-in-learning called Mouse, of whom more in a moment.
 
-[![](/uploads/2018/03/IMG_0558-1024x765.jpg)](/uploads/2018/03/IMG_0558.jpg)
+[![]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0558-1024x765.jpg)]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0558.jpg)
 
 The fourth oracle, like the last one, also mentions Arcadia, somewhere amidst its Zappa-like drollery, this time an 
 Arcadia ‘before the war’. The period just before the First World War was seen in English culture as a moment of bliss 

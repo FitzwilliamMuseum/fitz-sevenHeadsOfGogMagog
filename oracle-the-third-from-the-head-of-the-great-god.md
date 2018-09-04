@@ -28,8 +28,8 @@ which will make their way through your headphones into your head.
 
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="/uploads/2017/07/Three.mp3" />
-        [/uploads/2017/07/Three.mp3](/uploads/2017/07/Three.mp3)
+    <source type="audio/mpeg" src="{{ '/' | absolute_url }}/uploads/2017/07/Three.mp3" />
+        [{{ '/' | absolute_url }}/uploads/2017/07/Three.mp3]({{ '/' | absolute_url }}/uploads/2017/07/Three.mp3)
 </audio>
 
 You have now heard the words of Oracle the Third, and in the rest of this post I will attempt to interpret the oracular 
@@ -43,7 +43,7 @@ all set for a dry night undisturbed. It is not where I would live if I had any c
 not bore you with my Life’s Travails, or not all of them), but at least I am closer to the earth.
 
 
-[![](/uploads/2018/03/IMG_0568-1024x765.jpg)](/uploads/2018/03/IMG_0568.jpg)
+[![]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0568-1024x765.jpg)]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0568.jpg)
 
 I saw Chiffchaff in Glisson Road earlier today. A precious mind she has. She was perched on a yellow flowered Hypericum 
 in the garden of number 60, Pink Floyd singer Syd Barrett’s childhood house. She said Sparrow had put her onto my blog, 

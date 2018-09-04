@@ -24,8 +24,8 @@ audio file below. The horse’s mouth, if you look closely enough, and if you go
 its oraculations, which will make their way through your headphones into your head.
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="/uploads/2017/07/Five.mp3" />
-    <a href="/uploads/2017/07/Five.mp3">/uploads/2017/07/Five.mp3</a>
+    <source type="audio/mpeg" src="{{ '/' | absolute_url }}/uploads/2017/07/Five.mp3" />
+    <a href="{{ '/' | absolute_url }}/uploads/2017/07/Five.mp3">{{ '/' | absolute_url }}/uploads/2017/07/Five.mp3</a>
 </audio>
 
 You have now heard the words of Oracle the Fifth, and in the rest of this post I will attempt to interpret the oracular 
@@ -36,7 +36,7 @@ The entry for this bracelet in the online catalogue of the Museum states: ‘The
 (Bib): Lethbridge, TC, “Burial of an Iron Age Warrior at Snailwell”…’ The presence of the horse head bracelet in the 
 grave was possibly symbolic of the horse as a guide on the journey to the Otherworld.
 
-[![](/uploads/2018/03/IMG_0556-1024x765.jpg)](/uploads/2018/03/IMG_0556.jpg)
+[![]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0556-1024x765.jpg)]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0556.jpg)
 
 Glorious Robin, who has incisively commented on some of my previous posts, and who lives in a blackberry bush near the 
 cemetery lodge, is an authority on the author of that entry, TC Lethbridge, and it is Robin who I have to thank for most 

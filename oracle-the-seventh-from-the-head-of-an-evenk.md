@@ -26,8 +26,8 @@ The mouth of the shaman, if you look closely enough, and if you go along with my
 which will make their way through your headphones into your head.
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="/uploads/2017/07/Seven.mp3" />
-     [/uploads/2017/07/Seven.mp3](/uploads/2017/07/Seven.mp3)
+    <source type="audio/mpeg" src="{{ '/' | absolute_url }}/uploads/2017/07/Seven.mp3" />
+     [{{ '/' | absolute_url }}/uploads/2017/07/Seven.mp3]({{ '/' | absolute_url }}/uploads/2017/07/Seven.mp3)
 </audio>
 
 You have now heard the words of Oracle the Seventh, and in the rest of this post I will attempt to interpret the oracular 
@@ -40,7 +40,7 @@ reflective mirrors, and other shaman’s costumes are covered with round mirrors
 and Anthropology). The mirrors are meant to protect the shaman from harm and reveal what is normally invisible to the 
 human eye.
 
-[![](/uploads/2014/11/IMG_0562-1024x765.jpg)](/uploads/2014/11/IMG_0562.jpg)
+[![]({{ '/' | absolute_url }}/uploads/2014/11/IMG_0562-1024x765.jpg)]({{ '/' | absolute_url }}/uploads/2014/11/IMG_0562.jpg)
 
 > **Mirrors**
 >

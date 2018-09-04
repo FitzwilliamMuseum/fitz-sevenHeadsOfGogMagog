@@ -25,8 +25,8 @@ audio file below. The horse’s mouth, if you look closely enough, and if you go
 its oraculations, which will make their way through your headphones into your head.
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="/uploads/2017/07/Five230a.mp3" />
-    <a href="/uploads/2017/07/Five.mp3">/uploads/2017/07/Five.mp3</a>
+    <source type="audio/mpeg" src="{{ '/uploads/2017/07/Five.mp3' | absolute_url }}" />
+    <a href="{{ '/uploads/2017/07/Five.mp3' | absolute_url }}">{{ '/uploads/2017/07/Five.mp3' | absolute_url }}</a>
 </audio>
 
 You have now heard the words of Oracle the Fifth, and in the rest of this post I will attempt to interpret the oracular 

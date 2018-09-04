@@ -1891,7 +1891,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("/uploads/2017/02/cropped-Seven-Heads-Starr-Carr-square-1.jpg");
+    background-image: url("../uploads/2017/02/cropped-Seven-Heads-Starr-Carr-square-1.jpg");
     background-size: 100% 100%;
     background-attachment: bottom;
     color: #b0bec5;
@@ -1970,35 +1970,7 @@ section.module.parallax h1 {
     text-shadow: 0 0 10px white;
 }
 
-section.module.parallax-1 {
-    background-image: url("https://i.ytimg.com/vi/SwOaV-pzGcA/maxresdefault.jpg");
-    background-position: 50% 0;
-    background-repeat: repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: rgba(0, 123, 255, 0.4);
-    background-blend-mode: screen;
-}
 
-section.module.parallax-2 {
-    background-image: url("http://www.planwallpaper.com/static/images/Fall-Nature-Background-Pictures.jpg");
-    background-position: 50% 0;
-    background-repeat: repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: rgba(0, 123, 255, 0.4);
-    background-blend-mode: screen;
-}
-
-section.module.parallax-3 {
-    background-image: url("http://www.psd-dude.com/tutorials/resources-images/free-rain-and-raindrop-textures-for-photoshop/raindrops-window-background.jpg");
-    background-position: 50% 0;
-    background-repeat: repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: rgba(0, 123, 255, 0.4);
-    background-blend-mode: screen;
-}
 
 @media all and (min-width: 600px) {
     section.module h2 {

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}"/>
+    <meta name="keywords" content="{{ page.keywords}}"/>
+
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="shortcut icon" href="{{ '/' | absolute_url }}/uploads/2017/03/The-Seven-Oracles-of-Gog-Magog.jpg"/>
+
+
+    <link rel="canonical" href="{{ '/' | absolute_url }}"/>
+    <link rel="shortlink" href="{{ '/' | absolute_url }}"/>
+    {% include_relative _includes/_css.html %}
+
+
+</head>
+<body>
+<nav class="navbar navbar-expand-md navbar-dark bg-fade fixed-top main-navigation">
+    <div class="collapse navbar-collapse menu" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+            <li><a href="{{ '/' | absolute_url }}">Home</a></li>
+            <li><a href="{{ '/about' | absolute_url }}">About</a></li>
+            <li><a href="{{ '/oracle-the-first-from-the-head-of-a-thracian' | absolute_url }}">Thracian</a></li>
+            <li><a href="{{ '/oracle-the-second-from-the-head-of-a-demi-god' | absolute_url }}">Demi-God</a></li>
+            <li><a href="{{ '/oracle-the-third-from-the-head-of-the-great-god' | absolute_url }}">Great God</a></li>
+            <li><a href="{{ '/oracle-the-fourth-from-the-head-of-a-mouse' | absolute_url }}">Mouse</a></li>
+            <li><a href="{{ '/oracle-the-fifth-from-the-head-of-a-horse' | absolute_url }}">Horse</a>
+            <li><a href="{{ '/oracle-the-sixth-from-the-head-of-a-deer' | absolute_url }}">Deer</a></li>
+            <li><a href="{{ '/oracle-the-seventh-from-the-head-of-an-evenki' | absolute_url }}">Evenki</a></li>
+            <li><a href="{{ '/credits' | absolute_url }}">Credits</a></li>
+
+        </ul>
+    </div>
+</nav>
+
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="site-title display-3"><a href="{{ '/' | absolute_url }}" rel="home">The Seven Heads of Gog
+            Magog</a></h1>
+
+        <p class="lead">Seven oracular sound recordings illumined by a mythologically polymorphous
+            blog</p>
+    </div>
+</div>
+
+<section class="content">
+    <div class="col-md-12 ">
+        {{ content }}
+    </div>
+</section>
+
+
+<footer class="footer">
+    <div class="container-fluid bg-bars">
+        <div class="row">
+            <div class="col-xs-6 col-md-4 left">
+                <p>&copy; Emma Florence Bausor.</p>
+            </div>
+            <div class="col-xs-6 col-md-4 left">
+                <a href="https://www.fitzmuseum.cam.ac.uk/website/cookiepolicy">Fitzwilliam Privacy</a>
+            </div>
+            <div class="col-xs-6 col-md-4 right">
+                <a href="https://twitter.com/fitzwilliam_uk" class="btn btn-social-icon btn-twitter">
+                    <span class="fa fa-twitter"></span>
+                </a>
+                <a href="https://facebook.com/fitzwilliam_uk" class="btn btn-social-icon btn-facebook">
+                    <span class="fa fa-facebook"></span>
+                </a>
+                <a href="https://instagram.com/fitzwilliam_uk" class="btn btn-social-icon btn-instagram">
+                    <span class="fa fa-instagram"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+</footer>
+{% include_relative _includes/_scripts.html %}
+</body>
+</html>

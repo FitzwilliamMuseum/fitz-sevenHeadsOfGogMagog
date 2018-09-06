@@ -2068,3 +2068,13 @@ blockquote span{
     font-weight: bold;
     margin-top:1em;
 }
+
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.content  a {
+    color: #936e3e;
+    text-decoration: none;
+    background-color: transparent;
+}

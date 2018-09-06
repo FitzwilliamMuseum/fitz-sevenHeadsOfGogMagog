@@ -45,7 +45,7 @@ utterance as best I can.
 The main subject of the oracle’s river-borne floating voice seems to be the legendary singer and musician Orpheus, who
  is indeed, according to the museum label, the head on the cup.
 
-[![]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0551-1024x765.jpg)]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0551.jpg)
+[![](uploads/2018/03/IMG_0551-1024x765.jpg)]({{ uploads/2018/03/IMG_0551.jpg)
 
 ‘The birds, lamenting, cried for you, Orpheus’!
 
@@ -131,5 +131,7 @@ the four corners of the earth. Tikkun was the name for the process of collecting
 we, each one of us, gather a corporeality of objects – not a literal collection of things but a _story_ of them – and 
 could we gather a body of artefacts that are, so to speak, _still bleeding_? WHAT KIND OF STORY WOULD THAT BE?
 
-_In my second post on Friday I will muse on the southern shaman who reformed his savage god and gained immortality. 
-Could the shaman provide a new dissent for now, waking the beast?_
+_In my [second post](oracle-the-second-from-the-head-of-a-demi-god) on Friday I will muse on the southern shaman who 
+reformed his savage god and gained immortality. 
+
+Could the shaman provide a new dissent for now, waking the beast?

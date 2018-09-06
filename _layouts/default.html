@@ -21,18 +21,23 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-md navbar-dark bg-fade fixed-top main-navigation">
-    <div class="collapse navbar-collapse menu" id="navbarsExampleDefault">
+    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+        <i class="fa fa-angle-double-down"></i>
+    </button>
+    <div class="collapse navbar-collapse menu" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-            <li><a href="{{ '/' | absolute_url }}">Home</a></li>
-            <li><a href="{{ '/about' | absolute_url }}">About</a></li>
-            <li><a href="{{ '/oracle-the-first-from-the-head-of-a-thracian' | absolute_url }}">Thracian</a></li>
-            <li><a href="{{ '/oracle-the-second-from-the-head-of-a-demi-god' | absolute_url }}">Demi-God</a></li>
-            <li><a href="{{ '/oracle-the-third-from-the-head-of-the-great-god' | absolute_url }}">Great God</a></li>
-            <li><a href="{{ '/oracle-the-fourth-from-the-head-of-a-mouse' | absolute_url }}">Mouse</a></li>
-            <li><a href="{{ '/oracle-the-fifth-from-the-head-of-a-horse' | absolute_url }}">Horse</a>
-            <li><a href="{{ '/oracle-the-sixth-from-the-head-of-a-deer' | absolute_url }}">Deer</a></li>
-            <li><a href="{{ '/oracle-the-seventh-from-the-head-of-an-evenki' | absolute_url }}">Evenki</a></li>
-            <li><a href="{{ '/credits' | absolute_url }}">Credits</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/' | absolute_url }}">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/about' | absolute_url }}">About</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/oracle-the-first-from-the-head-of-a-thracian' | absolute_url }}">Thracian</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/oracle-the-second-from-the-head-of-a-demi-god' | absolute_url }}">Demi-God</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/oracle-the-third-from-the-head-of-the-great-god' | absolute_url }}">Great God</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/oracle-the-fourth-from-the-head-of-a-mouse' | absolute_url }}">Mouse</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/oracle-the-fifth-from-the-head-of-a-horse' | absolute_url }}">Horse</a>
+            <li class="nav-item"><a class="nav-link" href="{{ '/oracle-the-sixth-from-the-head-of-a-deer' | absolute_url }}">Deer</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/oracle-the-seventh-from-the-head-of-an-evenki' | absolute_url }}">Evenki</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/credits' | absolute_url }}">Credits</a></li>
 
         </ul>
     </div>
@@ -74,7 +79,8 @@
                 <a href="https://instagram.com/fitzwilliam_uk" class="btn btn-social-icon btn-instagram">
                     <span class="fa fa-instagram"></span>
                 </a>
-                <a href="https://github.com/FitzwilliamMuseum/sevenHeadsOfGogMagog" class="btn btn-social-icon btn-github">
+                <a href="https://github.com/FitzwilliamMuseum/sevenHeadsOfGogMagog"
+                   class="btn btn-social-icon btn-github">
                     <span class="fa fa-github"></span>
                 </a>
             </div>

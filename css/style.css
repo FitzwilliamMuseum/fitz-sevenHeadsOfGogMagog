@@ -1812,9 +1812,6 @@ Responsive
         background-color: transparent;
     }
 
-    .main-navigation ul {
-        display: none;
-    }
 
     .main-navigation .children,
     .main-navigation ul ul {
@@ -1911,7 +1908,7 @@ body {
 
 @media (max-width: 768px) {
     .navbar {
-        background-color: #007bff !important;
+        background-color: #373737;
     }
 }
 

@@ -1991,15 +1991,13 @@ section.module.parallax h1 {
 .footer {
     position: absolute;
     width: 100%;
-    /* Set the fixed height of the footer here */
-    height: 50px;
-    line-height: 40px;
+    height: 90px;
+    line-height: 20px;
 }
 
 footer .container-fluid a {
     display: inline-block;
     color: #ddd;
-    padding-left: 1em;
 
 }
 

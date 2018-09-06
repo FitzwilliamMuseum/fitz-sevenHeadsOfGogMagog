@@ -35,8 +35,8 @@ arrow on the audio file below. The mouth, if you look closely enough, and if you
 then utter its oraculations, which will make their way through your headphones into your head.
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="{{ '/' | absolute_url }}/uploads/2017/07/One.mp3" />
-     [{{ '/' | absolute_url }}/uploads/2017/07/One.mp3]({{ '/' | absolute_url }}/uploads/2017/07/One.mp3)
+    <source type="audio/mpeg" src="uploads/2017/07/One.mp3" />
+     [uploads/2017/07/One.mp3](uploads/2017/07/One.mp3)
 </audio>
 
 You have now heard the words of Oracle the First, and in the rest of this post I will attempt to interpret the oracular 
@@ -131,7 +131,7 @@ the four corners of the earth. Tikkun was the name for the process of collecting
 we, each one of us, gather a corporeality of objects – not a literal collection of things but a _story_ of them – and 
 could we gather a body of artefacts that are, so to speak, _still bleeding_? WHAT KIND OF STORY WOULD THAT BE?
 
-_In my [second post](oracle-the-second-from-the-head-of-a-demi-god) on Friday I will muse on the southern shaman who 
-reformed his savage god and gained immortality. 
+__In my [second post](oracle-the-second-from-the-head-of-a-demi-god) on Friday I will muse on the southern shaman who 
+reformed his savage god and gained immortality.__ 
 
 Could the shaman provide a new dissent for now, waking the beast?

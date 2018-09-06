@@ -45,7 +45,7 @@ utterance as best I can.
 The main subject of the oracle’s river-borne floating voice seems to be the legendary singer and musician Orpheus, who
  is indeed, according to the museum label, the head on the cup.
 
-[![](uploads/2018/03/IMG_0551-1024x765.jpg)]({{ uploads/2018/03/IMG_0551.jpg)
+[![](uploads/2018/03/IMG_0551-1024x765.jpg)](uploads/2018/03/IMG_0551.jpg)
 
 ‘The birds, lamenting, cried for you, Orpheus’!
 

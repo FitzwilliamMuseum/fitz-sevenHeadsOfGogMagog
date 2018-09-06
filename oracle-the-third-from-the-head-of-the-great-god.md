@@ -28,8 +28,8 @@ which will make their way through your headphones into your head.
 
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="{{ '/' | absolute_url }}/uploads/2017/07/Three.mp3" />
-        [{{ '/' | absolute_url }}/uploads/2017/07/Three.mp3]({{ '/' | absolute_url }}/uploads/2017/07/Three.mp3)
+    <source type="audio/mpeg" src="uploads/2017/07/Three.mp3" />
+        [uploads/2017/07/Three.mp3](uploads/2017/07/Three.mp3)
 </audio>
 
 You have now heard the words of Oracle the Third, and in the rest of this post I will attempt to interpret the oracular 
@@ -43,7 +43,7 @@ all set for a dry night undisturbed. It is not where I would live if I had any c
 not bore you with my Life’s Travails, or not all of them), but at least I am closer to the earth.
 
 
-[![]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0568-1024x765.jpg)]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0568.jpg)
+[![](uploads/2018/03/IMG_0568-1024x765.jpg)](uploads/2018/03/IMG_0568.jpg)
 
 I saw Chiffchaff in Glisson Road earlier today. A precious mind she has. She was perched on a yellow flowered Hypericum 
 in the garden of number 60, Pink Floyd singer Syd Barrett’s childhood house. She said Sparrow had put her onto my blog, 
@@ -132,5 +132,5 @@ Unborn’ of Liber VII (1907), by Cambridge alumnus Aleister Crowley – this mu
 another pan-sexual shaman-poet who returned from the dead (he faked a suicide then turned up at an exhibition of his 
 paintings three weeks later).
 
-_My next post on Friday will feature the sunshine before the war, the stories in peril, and the Golden Boy and his bike, 
-riding in the sun on the hills of the giant._
+__My next [post on Friday](oracle-the-fourth-from-the-head-of-a-mouse) will feature the sunshine before the war, the stories in peril, and the Golden Boy and his bike, 
+riding in the sun on the hills of the giant.__

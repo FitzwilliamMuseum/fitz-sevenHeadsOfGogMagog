@@ -24,8 +24,8 @@ press the Play arrow on the audio file below. The area below the head dress, if 
 will utter its oraculations, which will make their way through your headphones into your head.
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="{{ '/' | absolute_url }}/uploads/2017/07/Six.mp3" />
-    [{{ '/' | absolute_url }}/uploads/2017/07/Six.mp3]({{ '/' | absolute_url }}/uploads/2017/07/Six.mp3)
+    <source type="audio/mpeg" src="uploads/2017/07/Six.mp3" />
+    [uploads/2017/07/Six.mp3](uploads/2017/07/Six.mp3)
 </audio>
 
 You have now heard the words of Oracle the Sixth, and in the rest of this post I will attempt to interpret the oracular 
@@ -37,7 +37,7 @@ not known what the head dress was used for, so we have to speculate. We have to 
 is that the object was part of the costume of a shaman, who may have danced, played music and sung a ritual that drew 
 power from the stag and from the spirits of the land.
 
-[![]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0559-1024x765.jpg)]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0559.jpg)
+[![](uploads/2018/03/IMG_0559-1024x765.jpg)](uploads/2018/03/IMG_0559.jpg)
 
 Chiffchaff, the longstanding friend and Walter Benjamin initiate I have mentioned earlier, intercepted one of my journeys 
 to the library a few months ago to suggest I read the work of anthropologist Marc Augé. His ‘War of Dreams’ (this must be 
@@ -141,6 +141,6 @@ The moral of the simple myth is clear. They played with fire, those mortals, SO 
 
 This is the simple myth, but the _true myth_ is somewhat more complicated, like the story of the 1960s. And it is unknowable.
 
-_My final post, on the eve of the bone fires, will concern itself with the shaman from the north, with the mirrors that 
+__My [final post](oracle-the-seventh-from-the-head-of-an-evenki), on the eve of the bone fires, will concern itself with the shaman from the north, with the mirrors that 
 protect against the Fictional World, with the end of the Golden One but his rebirth as a story to resist the destruction 
-of stories, with the convergence of forces towards the One Force, and, finally, with the AWAKENING._
+of stories, with the convergence of forces towards the One Force, and, finally, with the AWAKENING.__

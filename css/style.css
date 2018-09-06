@@ -2039,3 +2039,34 @@ footer .container-fluid p {
 .jumbotron {
     padding-top: 150px;
 }
+blockquote{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4em;
+    margin:50px auto;
+    color: #555555;
+    padding:1.2em 30px 1.2em 75px;
+    border-left:8px solid #373737 ;
+    line-height:1.6;
+    position: relative;
+    background:#EDEDED;
+}
+
+blockquote::before{
+    font-family: 'Roboto', sans-serif;
+    content: "\201C";
+    font-size:4em;
+    position: absolute;
+    left: 10px;
+    top:-10px;
+}
+
+blockquote::after{
+    content: '';
+}
+
+blockquote span{
+    display:block;
+    font-style: normal;
+    font-weight: bold;
+    margin-top:1em;
+}

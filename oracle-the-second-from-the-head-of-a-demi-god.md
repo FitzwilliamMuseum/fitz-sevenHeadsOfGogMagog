@@ -24,8 +24,8 @@ press the Play arrow on the audio file below. The mouth, if you look closely eno
 fancy, will utter its oraculations, which will make their way through your headphones into your head.
 
 <audio controls="controls">
-    <source type="audio/mpeg" src="{{ '/' | absolute_url }}/uploads/2017/07/Two.mp3" />
-     [{{ '/' | absolute_url }}/uploads/2017/07/Two.mp3]({{ '/' | absolute_url }}/uploads/2017/07/Two.mp3)
+    <source type="audio/mpeg" src="uploads/2017/07/Two.mp3" />
+     [uploads/2017/07/Two.mp3](uploads/2017/07/Two.mp3)
 </audio>
 
 
@@ -38,7 +38,7 @@ goes on to describe how magician Orpheus, or his postumous cult, is credited wit
 mad, drunken rites of Dionysos (the ‘drunken bull god’ in the words of the oracle) into sober, ordered rituals, in effect 
 setting out the parameters for modern religion.
 
-[![]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0554-1024x765.jpg)]({{ '/' | absolute_url }}/uploads/2018/03/IMG_0554.jpg)
+[![](uploads/2018/03/IMG_0554-1024x765.jpg)](uploads/2018/03/IMG_0554.jpg)
 
 The new impulse that the immigrant god Dionysos brought to Greece was the belief in enthusiasm (Greek _enthousiasmós_, 
 equivalent to _enthousí_: possession by a god), the belief that a man through physical intoxication at first (possibly 
@@ -123,5 +123,5 @@ Protogonos, a beast-mystery-god also called Dionysos, to whom his Bacchants cry:
 > 
 > \[And as the rousing chorus of the oracle goes\] O God, Beast, Mystery, come! (Harrison.)
 
-_My next blog post on Tuesday will explore the All-God, those who hear his call, and who envision his horns in hushed
- twee-awe._
+__My next blog [post on Tuesday](oracle-the-third-from-the-head-of-the-great-god.) will explore the All-God, those who hear his call, and who envision his horns in hushed
+ twee-awe.__

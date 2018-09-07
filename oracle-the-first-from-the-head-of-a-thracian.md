@@ -6,7 +6,7 @@ description: The first post in the series
 keywords: Cambridge, Delphi, Dionysos, Fitzwilliam Museum, Jane Ellen Harrison, music, oracle, Orpheus, shamanism	
 created: 2014/10/14
 updated: 2018/03/19
-tags: Cambridge, Delphi, Dionysos, Fitzwilliam Museum, Jane Ellen Harrison, music, oracle, Orpheus, shamanism
+tags: Cambridge Delphi Dionysos Fitzwilliam-Museum Jane-Ellen-Harrison music oracle Orpheus shamanism
 ---
 
 Oracle the First From the Head of a Thracian

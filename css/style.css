@@ -1872,10 +1872,6 @@ html {
     min-height: 100%;
 }
 
-body {
-    /* Margin bottom by footer height */
-    margin-bottom: 60px;
-}
 
 .jumbotron {
     background-image: url("../uploads/2017/02/cropped-Seven-Heads-Starr-Carr-square-1.jpg");
@@ -2077,4 +2073,41 @@ blockquote span{
     color: #936e3e;
     text-decoration: none;
     background-color: transparent;
+}
+
+footer{
+    background-color: #33383c;
+    padding:70px 0px;
+}
+
+.adress span , .contact span , .social span{
+    color: #FFF;
+    font-weight: 800;
+    padding:20px 0px;
+    display: block;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+
+.adress li , .contact li , .social li {
+    padding:5px 0px;
+    list-style: none;
+}
+
+.adress li p , .contact li a , .social li a{
+    color:#FFF;
+    letter-spacing: 2px;
+    text-decoration:none;
+    font-size:14px;
+}
+
+.social li{
+    float:left;
+}
+
+.social .fa{
+    color:#9c9c9c;
+    margin-right: 10px;
+    font-size:22px;
 }

@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+description: About this project
 ---
 
 The Seven Heads of Gog Magog

@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: credits
+title: Credits
+description: The people we would like to thank
 ---
 Credits
 =======

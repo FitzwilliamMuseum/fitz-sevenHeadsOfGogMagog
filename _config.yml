@@ -3,6 +3,7 @@ baseurl: ''
 url: https://sevenheadsofgogmagog.fitzmuseum.cam.ac.uk
 email: "dejp3@cam.ac.uk"
 title: Seven Heads of Gog Magog
+image: /uploads/2017/03/The-Seven-Oracles-of-Gog-Magog.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   An audio immersive journey through the seven heads of Gog Magog.
 baseurl: "" # the subpath of your site, e.g. /blog

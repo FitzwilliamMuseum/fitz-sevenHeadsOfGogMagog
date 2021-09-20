@@ -68,6 +68,7 @@
     <div class="col-md-12 ">
         {{ content }}
     </div>
+    {% if page.created %}
     <div class="col-md-12">
         <p>
             <strong>Published:</strong> {{ page.created | date_to_long_string }} <strong>Updated:</strong> {{
@@ -77,6 +78,7 @@
             {% endif %}
         </p>
     </div>
+    {% endif %}
 </section>
 
 <footer>

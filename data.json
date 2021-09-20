@@ -8,7 +8,7 @@
             "url": "{{site.url }}{{ entry.url | xml_escape }}",
             "slug": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.description | newline_to_br |  replace: '<br />', ' ' | strip_newlines | strip_html | strip |  xml_escape | truncatewords: 50  }}",
-            "content": "{{ entry.content | newline_to_br |  replace: '<br />', ' ' | strip_newlines | strip_html | strip |  xml_escape  }}"
+            "content": {{ entry.content | newline_to_br |  replace: '<br />', ' ' | strip_newlines | strip_html | strip |  xml_escape  | jsonify }}
             {% if site.image %},
             "thumbnail": "{{site.url}}{{ site.image | xml_escape }}",
             "image": "{{site.url}}{{ site.image | xml_escape }}"

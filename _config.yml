@@ -1,3 +1,24 @@
 name: Seven Heads of Gog Magog
 baseurl: ''
-url: http://sevenheadsofgogmagog.fitzmuseum.cam.ac.uk
+url: https://sevenheadsofgogmagog.fitzmuseum.cam.ac.uk
+email: "dejp3@cam.ac.uk"
+title: Seven Heads of Gog Magog
+description: >- # this means to ignore newlines until "baseurl:"
+  An audio immersive journey through the seven heads of Gog Magog.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: FitzMuseum_UK
+github_username:  fitzwilliammuseum
+background: "/images/folio_page.jpg"
+google_analytics: 'G-2R0YLY9DRS'
+# Build settings
+plugins:
+  - jekyll-feed
+words_per_minute: 200
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-mentions

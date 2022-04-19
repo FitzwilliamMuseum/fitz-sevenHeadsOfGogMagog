@@ -29,12 +29,11 @@ Oracle the First will issue from this, object Ant.103.25.
 
 <div class="text-center my-3">
     <figure class="figure">
-        <img src="https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/Loan_20Ant_103_25_20_281_29.jpg"
+        <img src="https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/Loan_20Ant_103_25_20_282_29.jpg"
         alt="Stemless cup" class="img-fluid" />
-        <figcaption class="figure-caption text-info">Stemless cup</figcaption>>
+        <figcaption class="figure-caption text-info">Stemless cup</figcaption>
     </figure>
 </div>
-
 
 It may take you some time to find the object, as there are a lot of painted wine cups, mixing bowls and jugs, encased
 in their timelessly contemporary vitrines. When you find the cup, please concentrate your gaze on the severed head

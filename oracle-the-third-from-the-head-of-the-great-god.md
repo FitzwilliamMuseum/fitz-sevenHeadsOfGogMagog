@@ -20,13 +20,13 @@ Oracle the Third will issue from this, object GR.1.1835.
     <figure class="figure">
         <img src="https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant47/GR_1_1835_1_200807_adn21_dc2.jpg"
         alt="Pashley Sarcophagus" class="img-fluid" />
-        <figcaption class="figure-caption text-info">Pashley Sarcophagus</figcaption>>
+        <figcaption class="figure-caption text-info">Pashley Sarcophagus</figcaption>
     </figure>
 </div>
 
 
 On the side of the sarcophagus that faces the Dionysos bust you encountered in my last post, you will see a frieze — of
-Dionysos again — whose chariot is being led in procession by all and sundry. This time, there is a detail I would like 
+Dionysos again — whose chariot is being led in procession by all and sundry. This time, there is a detail I would like
 you to focus on, the figure of Pan dancing with a drum to the left of the centre of the marble frieze. Please concentrate
 your gaze on the sculpted head of Pan; on its sculpted mouth. Then ask it a question, any question, as long as you hope
 the answer to it will help you to face life itself. On your phone-device, press the Play arrow on the audio file below.

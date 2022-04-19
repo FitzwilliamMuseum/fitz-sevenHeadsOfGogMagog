@@ -1,5 +1,8 @@
 # The Seven Heads Of Gog Magog
 
+[![DOI](https://zenodo.org/badge/147331005.svg)](https://zenodo.org/badge/latestdoi/147331005)
+
+
 On the way to Cambridge Central Library (from whence I write), a couple of months ago, I spotted – Ah! Joyous Vision – one of my eternally invaluable friends, Sparrow, who was loitering in Glisson Road. I have known and loved Sparrow for over forty years – how time soars away on its mournful wing. We had a fair old converse about the sound recordings that had come into my possession, of speech and song ‘uttered’ by objects from Cambridge museums (I know this already sounds far fetched, but all will be explained). Sparrow offered to help me with my attempts to decipher the meaning of the recordings. It was he who suggested I write a blog to do so and said he would get our other friends involved.
 
 ![gogmagog](https://user-images.githubusercontent.com/286552/163977433-2a028295-cd36-42c0-80c5-a9664295e25e.jpg)
